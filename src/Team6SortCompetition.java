@@ -4,7 +4,7 @@ public class Team6SortCompetition extends SortCompetition {
         SortingMethods.mergeSort(arr);
         int medium = SortingUtil.intMedian(arr);
 
-        return medium;
+        return medium;//g
     }
 
     @Override
